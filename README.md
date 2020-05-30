@@ -5,13 +5,13 @@ Disponible en Udemy por 11.99€ a través de [este enlace](https://www.udemy.co
 
 # Tema 0 - Los preliminares del curso
 
-# Tema 1 - Matrices
+# Tema 1 - Matricess
 
 # Tema 2 - Sistemas de Ecuaciones Lineales
 
 # Tema 3 - Descomposición factorial LU
 
-# Tema 4 - Determinantes
+# Tema 4 - Determinantesss
 
 # Tema 5 - Vectores
 
